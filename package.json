@@ -1,0 +1,26 @@
+{
+  "name": "hello-microverse-cr-trial-one",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx hint . && npx stylelint **/*.{css,scss}"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aimemalaika/Hello-Microverse-Cr-Trial-One.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aimemalaika/Hello-Microverse-Cr-Trial-One/issues"
+  },
+  "homepage": "https://github.com/aimemalaika/Hello-Microverse-Cr-Trial-One#readme",
+  "devDependencies": {
+    "hint": "^6.1.9",
+    "stylelint": "^13.13.1",
+    "stylelint-config-standard": "^21.0.0",
+    "stylelint-csstree-validator": "^1.9.0",
+    "stylelint-scss": "^3.21.0"
+  }
+}
